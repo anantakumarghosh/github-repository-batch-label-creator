@@ -1,0 +1,14 @@
+{
+    "OrgName": {
+        "RepoName": {
+            "label1": {
+                "description": "description of label",
+                "color": "#B5673B"
+            },
+            "label2": {
+                "description": "description of label",
+                "color": "#B5673B"
+            }
+        }
+    }
+}
