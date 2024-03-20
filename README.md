@@ -8,11 +8,15 @@ Node js project, that helps us to create labels in multiple orgs, repositories.
 
 
 ## How to run
-- ```
+- Clone Project
+```
 git clone https://github.com/anantakumarghosh/github-repository-batch-label-creator.git
 ```
 - Provide your labels in provided JSON schema sample.
 - Run code
+```
+node main.js
+```
 
 Code will only work if all repositories are valid
 
